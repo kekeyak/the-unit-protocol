@@ -11,7 +11,7 @@ The Unit helps individuals, organizations, and applications:
 
 ## 🛠 Components
 
-- 📖 `The_Unit_Whitepaper_FULL.docx`  
+- 📖 `The_Unit_Whitepaper_FULL`  
 - 🛡 `The_Unit_Foundation_Charter.md`  
 - ⚖ `LICENSE` (AGPL v3.0 for all code; CC0 for concepts/text)
 
