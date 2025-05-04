@@ -33,5 +33,5 @@ No one may enclose or tokenize The Unit. It is non-mintable, immutable, and open
 We welcome contributors, civic partners, educators, and stewards.  
 Let’s build a global language for value — together.
 
-> “The Unit belongs to everyone. It cannot be owned. Only protected.”
-> "The Unit should spread because it is true, not because it is profitable. Truth, once made useful and hard to corrupt, always wins in the long run."
+- “The Unit belongs to everyone. It cannot be owned. Only protected.”
+- "The Unit should spread because it is true, not because it is profitable. Truth, once made useful and hard to corrupt, always wins in the long run."
